@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xsUsZOisu2zFi86R+2Pz9UsShh0Z+DJ5gTqQihwKFWgTEEGfm4VrxZZUv8I0JLGxNvFUXp7QykaxFsQdwCu2PA==",
+  "success": true,
+  "projectFilePath": "C:\\Patika_Bootcamp\\1-hafta-odev-omer-khvci\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ömer Kahveci\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\Ömer Kahveci\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ömer Kahveci\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ömer Kahveci\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ömer Kahveci\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ömer Kahveci\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ömer Kahveci\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
