@@ -1,0 +1,17 @@
+﻿using Base.BaseModel;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Data.Model
+{
+    public class Employee:BaseModel
+    {
+        public string EmpName { get; set; }
+        public int DeptId { get; set; }
+        public List<Department> Departments { get; set; }
+        public List<Folder> Folders { get; set; }
+    }
+}
